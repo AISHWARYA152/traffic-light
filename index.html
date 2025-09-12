@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head> 
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+         <div class="trafficContainer">
+        <h1 class="trafficHeading mb-5">Traffic Light</h1>
+        <div class="trafficLightBlock">
+            <div class="lightBlock d-flex flex-column">
+                <button class="stop mt-3 mb-4 mr-3" id="stopButton" onclick="turnOnRed()">Stop</button>
+                <button class="ready mb-4" id="readyButton" onclick="turnOnYellow()">Ready</button>
+                <button class="go mb-4" id="goButton" onclick="turnOnGreen()">Go</button>
+            </div>
+            <div class="trafficLight">
+                <div class="bulb mt-5" id="stopLight"></div>
+                <div class="bulb" id="readyLight"></div>
+                <div class="bulb mb-5" id="goLight"></div>
+            </div>
+        </div>
+    </div>
+        </div>
+    </body>  
+    <script src="script.js"></script>
+</html>

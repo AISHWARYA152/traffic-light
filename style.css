@@ -1,0 +1,77 @@
+ .trafficContainer{ 
+    background-color:#86d2f2 ;
+    height:100vh;
+    display:flex; 
+    flex-direction: column;
+    justify-content:center ;
+    text-align: center;
+}
+
+.trafficHeading {
+    color: #1f1d41;
+    background-color: #86d2f2;
+    font-weight: 700;
+}
+
+.trafficLightBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.lightBlock {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.stop {
+    background-color: #1f1d41;
+    color: white;
+    width: 70px;
+    padding: 12px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.ready {
+    background-color: #1f1d41;
+    color: white;
+    width: 70px;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.go {
+    background-color: #1f1d41;
+    color: white;
+    width: 70px;
+    padding: 12px; 
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.trafficLight {
+    background-color: #1f1d41;
+    width: 98px;
+    height: 290px;
+    border-radius: 45px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bulb {
+    background-color: #4b5069;
+    height: 50px;
+    width: 48px;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin-bottom: 18px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
