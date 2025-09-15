@@ -1,6 +1,6 @@
 # Traffic Light 🚦  
 ---
-## Description  
+## 📂 Description  
 A simple interactive traffic light built using **HTML, CSS, and JavaScript**.  
 When you click the buttons:  
 - **Start** → Red light turns on  
@@ -9,23 +9,26 @@ When you click the buttons:
 
 ---
 
-## Live Demo 
-[cick here to view project=traffic-light][https://aishwarya152.github.io/traffic-light/]
+## 🌐Live Demo 
+[click here to view project = traffic-light](https://aishwarya152.github.io/traffic-light/)
 
 ---
 
-## Features  
-- 🚦 Realistic traffic light simulation with buttons  
+## 🌟Features  
+- 🚦 Realistic **traffic light** simulation with buttons  
 - 🎨 Simple and clean design  
 - 🖥️ Works on any modern browser
 ---
 
-## Technologies Used  
+## ⚒ Technologies Used  
 - HTML  
 - CSS  
 - JavaScript
 ---
 
-## Connect With Me 
-- Linkdin[https://www.linkedin.com/in/aishwarya-chinagundi-21a341356]
+## ♠ Connect With Me 
+- [Linkdin](https://www.linkedin.com/in/aishwarya-chinagundi-21a341356)
+
+--- 
+
 
